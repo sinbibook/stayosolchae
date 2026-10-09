@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-28T00:44:48.147018864Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-09T14:04:44.680409991Z",
     "templateType": "trip_f",
     "propertyId": "3d952512-66a6-4770-afab-be0cbec795e6",
     "homepageId": "6bd4790a-6cea-43cd-a31e-9ba73e413cec"
@@ -1475,8 +1475,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "09c6be9d-45f4-488b-a957-d17287a7cb75",
-                    "url": "https://stayosolchae.kr/assets/images/travel/top.webp",
+                    "id": "01a120fb-00d7-795d-84be-33663e54c499",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6bd4790a-6cea-43cd-a31e-9ba73e413cec/nearby_attractions_hero/1791554681883-kjidhcqzsy.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1615,6 +1615,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
